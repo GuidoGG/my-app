@@ -13,7 +13,7 @@ function App() {
         </div>
         <div style={{ textAlign: "center" }}>
           <img src={homeicon} alt="Home" />
-          hi
+          test
 
         </div>
       </div>
